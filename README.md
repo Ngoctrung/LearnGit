@@ -1,2 +1,2 @@
 # LearnGit
-Ví dụ khoa chứa Git cơ bản.
+Ví dụ kho chứa Git cơ bản.
